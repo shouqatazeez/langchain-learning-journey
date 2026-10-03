@@ -1,6 +1,6 @@
 # LangChain Learning Journey
 
-A hands-on repository documenting my journey learning LangChain for building LLM-powered applications. I'm learning in public and committing as I go, so this repo grows with every lecture I complete.
+A hands-on repository documenting my journey learning LangChain for building LLM-powered applications. I'm learning in public and committing as I go, so this repo grows with every new topic I work through.
 
 One thing worth noting: I studied how the major closed-source models work (OpenAI, Claude, Gemini), but I run the projects here on open-source models through Hugging Face to keep everything cost-free. The LangChain code barely changes between them, which turned out to be one of the most useful lessons here.
 
@@ -91,4 +91,4 @@ streamlit run Prompts/dynamic2.py
 
 ---
 
-If you're learning GenAI too, feel free to follow along as this repo fills out lecture by lecture.
+If you're learning GenAI too, feel free to follow along as this repo grows topic by topic.
